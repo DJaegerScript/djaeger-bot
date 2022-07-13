@@ -1,1 +1,1 @@
-worker: bin/discord-bot
+worker: bin/djaeger-bot
