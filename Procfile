@@ -1,1 +1,1 @@
-worker: bin/djaeger-bot
+worker: go run main.go
